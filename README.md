@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/vers%C3%A3o-v3-c9a227?style=for-the-badge" alt="Versão v3">
   <img src="https://img.shields.io/badge/idioma-PT--BR-2e7d32?style=for-the-badge" alt="Idioma PT-BR">
   <img src="https://img.shields.io/badge/Steam-Windows-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam para Windows">
 </p>
@@ -102,16 +101,6 @@ Se ele estiver lá e a opção da dublagem ficar desmarcada, as falas aparecem e
 <br>
 Nomes de personagens, de artes e crafts, logotipos, cartazes dos minigames e as capturas de tela dentro das páginas de ajuda.
 </details>
-
----
-
-## 📜 Versões
-
-| Versão | Mudanças |
-|---|---|
-| **v3** | Nomes de artes e crafts ficam sempre em inglês (a opção "Habilidades" saiu de "Nomes em português"). |
-| **v2** | Falas e dados de batalha traduzidos; nova opção "Nomes em português". |
-| **v1** | Primeira versão do instalador. |
 
 ---
 
