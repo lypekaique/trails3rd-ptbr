@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20Baixar%20o%20instalador-Trails3rd__PTBR__Instalador__v3.exe-8b5a2b?style=for-the-badge" alt="Baixar o instalador">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Baixar%20o%20instalador-Trails3rd__PTBR__Instalador__v4.exe-8b5a2b?style=for-the-badge" alt="Baixar o instalador">
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 ## 📥 Como instalar
 
-1. Baixe o **`Trails3rd_PTBR_Instalador_v3.exe`** na página de [Releases](../../releases/latest).
+1. Baixe o **`Trails3rd_PTBR_Instalador_v4.exe`** na página de [Releases](../../releases/latest).
 2. Execute e siga o assistente. Ele acha o jogo sozinho na Steam (ou deixa você escolher a pasta).
 3. Escolha as opções e clique em **Instalar**. Pronto: é só abrir o jogo pela Steam.
 
